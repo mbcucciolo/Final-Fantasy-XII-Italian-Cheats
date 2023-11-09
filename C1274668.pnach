@@ -1,0 +1,132 @@
+gametitle= Final Fantasy XII (Italian) [SLES_543.57;1] [0xC1274668]
+comment= Source file at https://github.com/mbcucciolo/Final-Fantasy-XII-Italian-Cheats/
+
+//Region = PAL
+//CRC = 0xC1274668
+//Disc = SLES_543.57;1
+
+//*** GENERALE ***//
+
+    //Guil
+    patch=1,EE,2054C008,word,05F5E0FF
+    
+    //Rango
+    patch=1,EE,20557A68,word,5F5E0FF
+
+    //Telelite
+    patch=1,EE,20552C70,byte,63
+
+    //Extrapozione
+    patch=1,EE,205528AC,byte,63
+
+    //Etere
+    patch=1,EE,205528AE,byte,63
+
+    //Panacea
+    patch=1,EE,205528C8,byte,63
+
+    //Coda di Fenice
+    patch=1,EE,205528B4,byte,63
+
+    //Erba Ghisal
+    patch=1,EE,20552E20,byte,63
+
+    //Perle Nere (Faro di Ridorana, ignorate durante la storia)
+    patch=1,EE,20552E9C,byte,63
+
+    //Foglie Bianche (Archades, ignorate durante la storia)
+    //patch=1,EE,20552E96,byte,63
+
+//*** VAAN ***//
+
+    //HP
+    patch=1,EE,2054E250,word,0000270F
+
+    //MAX HP
+    patch=1,EE,2054E22C,word,0000270F
+
+    //EXP
+    patch=1,EE,2054E394,word,05F5E0FF
+
+    //LP
+    patch=1,EE,2054E398,word,0001869F
+
+
+//*** PENELO ***//
+
+    //HP
+    patch=1,EE,2054EB24,word,0000270F
+
+    //MAX HP
+    patch=1,EE,2054EB00,word,0000270F
+
+    //EXP (non necessario)
+    //patch=1,EE,2054EC68,word,05F5E0FF
+
+    //LP
+    patch=1,EE,2054EC6C,word,0001869F
+
+
+//*** BALTHIER ***//
+
+    //HP
+    patch=1,EE,2054E79C,word,0000270F
+
+    //MAX HP
+    patch=1,EE,2054E778,word,0000270F
+
+    //EXP (non necessario)
+    //patch=1,EE,2054E8E0,word,05F5E0FF
+
+    //LP
+    patch=1,EE,2054E8E4,word,0001869F
+
+
+//*** FRAN ***//
+
+    //HP
+    patch=1,EE,2054E5D8,word,0000270F
+
+    //MAX HP
+    patch=1,EE,2054E5B4,word,0000270F
+
+    //EXP (non necessario)
+    //patch=1,EE,2054E71C,word,05F5E0FF
+ 
+    //LP
+    patch=1,EE,2054E720,word,0001869F
+
+
+//*** BASCH ***//
+
+    //HP 
+    patch=1,EE,2054E960,word,0000270F
+
+    //MAX HP
+    patch=1,EE,2054E93C,word,0000270F
+
+    //EXP (non necessario)
+    //patch=1,EE,2054EAA4,word,05F5E0FF
+    
+    //LP
+    patch=1,EE,2054EAA8,word,0001869F
+
+
+//*** ASHE ***//
+    
+    //HP
+    patch=1,EE,2054E414,word,0000270F
+
+    //MAX HP
+    patch=1,EE,2054E3F0,word,0000270F
+
+    //EXP (non necessario)
+    //patch=1,EE,2054E558,word,05F5E0FF
+
+    //LP
+    patch=1,EE,2054E55C,word,0001869F
+
+
+//*** REKS ***//
+    //HP
+    patch=1,EE,2054ECE8,word,00000088
