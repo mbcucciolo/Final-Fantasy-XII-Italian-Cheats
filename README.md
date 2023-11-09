@@ -21,12 +21,15 @@ Cheats di Final Fantasy XII per [PCSX2](https://pcsx2.net/).
 - HP Max: 9.999
 - LP: 99.999
 ## FAQ
-- *Quando carico il gioco dalla memory card esce "Dati corrotti", ho perso il mio salvataggio?*
+- *Quando carico il gioco dalla memory card esce "Dati corrotti", ho perso il mio salvataggio?*\
 No, avvia PCSX2 con `CheatEnabled`, prima di caricare i dati dalla memory card disabilitali, dopo averli caricati riabilitali.
-Questa procedura in genere serve quando i dati all'interno della memory card non corrispondono con quelli impostati dai cheat (probabilmente hai iniziato una partita senza usare i cheat). Se salvi con i cheat abilitati, non avrai più alcun problema per i successivi caricamenti. 
-*- I Guild diminuiscono quando effettuo acquisti, devo spenderli con parsimonia?*
+Questa procedura in genere serve quando i dati all'interno della memory card non corrispondono con quelli impostati dai cheat (probabilmente hai iniziato una partita senza usare i cheat). Se salvi con i cheat abilitati, non avrai più alcun problema per i successivi caricamenti.
+
+- *I Guild diminuiscono quando effettuo acquisti, devo spenderli con parsimonia?*\
 No, esci e rientra dallo shop e i guil saranno di nuovo al massimo.
-*- Gli LP diminuiscono quando li assegno, li consumerò tutti?*
+
+- *Gli LP diminuiscono quando li assegno, li consumerò tutti?*\
 No, esci completamente dal menù, poi rientra nella sezione degli LP e saranno di nuovo al massimo.
-*- Con quale versione di PCSX2 sono stati generati e testati?*
+
+- *Con quale versione di PCSX2 sono stati generati e testati?*\
 Verisone 1.6.0 Stable.
