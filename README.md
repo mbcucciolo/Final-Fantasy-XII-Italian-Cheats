@@ -34,4 +34,4 @@ No, esci completamente dal menù, poi rientra nella sezione degli LP e saranno d
 - *Con quale versione di PCSX2 sono stati generati e testati?*\
 Verisone 1.6.0 Stable.
 
-[![Buy me a beer](https://www.mbcucciolo.com/cdn/BuyMeaBeer_v1.png)](https://www.buymeacoffee.com/mbcucciolo)
+<a href="https://www.buymeacoffee.com/mbcucciolo" target="_blank" title="Buy me a beer"><img src="https://www.mbcucciolo.com/cdn/BuyMeaBeer_v1.png" alt="Buy me a beer" title="Buy me a beer"></a>
